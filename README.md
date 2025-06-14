@@ -1,2 +1,14 @@
-# Summer-Analytics-Hackathon
-Logistic Regression with NDVI-based Feature Engineering : - 1) Goal: Classify land cover using noisy NDVI time series 2) Method: Extracted statistical features (mean, std, skew, kurtosis) from NDVI values 3) Model: Logistic Regression 4)Validation Accuracy: ~86.6% 5)Simple, interpretable, and fast model focused on generalization.
+## Files
+- `Copy_of_starter_for_hackathon.ipynb` — Jupyter notebook with data processing and logistic regression model.
+- `submission (1).csv` — Sample submission file with predictions.
+
+## How to Run
+1. Open the notebook in Jupyter.
+2. Run all cells.
+3. Ensure required packages (`pandas`, `numpy`, `scikit-learn`) are installed.
+
+## Dependencies
+- Python 3.x
+- pandas
+- numpy
+- scikit-learn
